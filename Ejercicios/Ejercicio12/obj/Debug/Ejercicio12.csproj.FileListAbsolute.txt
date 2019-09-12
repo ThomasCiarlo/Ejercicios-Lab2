@@ -1,0 +1,11 @@
+D:\VisualStudio\Ejercicios5\Ejercicio12\bin\Debug\Ejercicio12.exe.config
+D:\VisualStudio\Ejercicios5\Ejercicio12\bin\Debug\Ejercicio12.exe
+D:\VisualStudio\Ejercicios5\Ejercicio12\bin\Debug\Ejercicio12.pdb
+D:\VisualStudio\Ejercicios5\Ejercicio12\bin\Debug\Ejercicio11.exe
+D:\VisualStudio\Ejercicios5\Ejercicio12\bin\Debug\Ejercicio11.pdb
+D:\VisualStudio\Ejercicios5\Ejercicio12\bin\Debug\Ejercicio11.exe.config
+D:\VisualStudio\Ejercicios5\Ejercicio12\obj\Debug\Ejercicio12.csprojAssemblyReference.cache
+D:\VisualStudio\Ejercicios5\Ejercicio12\obj\Debug\Ejercicio12.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Ejercicios5\Ejercicio12\obj\Debug\Ejercicio12.csproj.CopyComplete
+D:\VisualStudio\Ejercicios5\Ejercicio12\obj\Debug\Ejercicio12.exe
+D:\VisualStudio\Ejercicios5\Ejercicio12\obj\Debug\Ejercicio12.pdb

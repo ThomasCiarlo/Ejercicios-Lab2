@@ -1,0 +1,7 @@
+D:\VisualStudio\Ejercicios5\Ejercicio9\bin\Debug\Ejercicio9.exe.config
+D:\VisualStudio\Ejercicios5\Ejercicio9\bin\Debug\Ejercicio9.exe
+D:\VisualStudio\Ejercicios5\Ejercicio9\bin\Debug\Ejercicio9.pdb
+D:\VisualStudio\Ejercicios5\Ejercicio9\obj\Debug\Ejercicio9.csprojAssemblyReference.cache
+D:\VisualStudio\Ejercicios5\Ejercicio9\obj\Debug\Ejercicio9.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Ejercicios5\Ejercicio9\obj\Debug\Ejercicio9.exe
+D:\VisualStudio\Ejercicios5\Ejercicio9\obj\Debug\Ejercicio9.pdb

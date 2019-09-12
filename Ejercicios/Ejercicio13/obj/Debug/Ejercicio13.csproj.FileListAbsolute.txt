@@ -1,0 +1,7 @@
+E:\Clase2\Ejercicio13\bin\Debug\Ejercicio13.exe.config
+E:\Clase2\Ejercicio13\bin\Debug\Ejercicio13.exe
+E:\Clase2\Ejercicio13\bin\Debug\Ejercicio13.pdb
+E:\Clase2\Ejercicio13\obj\Debug\Ejercicio13.csprojAssemblyReference.cache
+E:\Clase2\Ejercicio13\obj\Debug\Ejercicio13.csproj.CoreCompileInputs.cache
+E:\Clase2\Ejercicio13\obj\Debug\Ejercicio13.exe
+E:\Clase2\Ejercicio13\obj\Debug\Ejercicio13.pdb
