@@ -31,7 +31,7 @@ namespace Ejercicio20
 
         }
 
-        public double GetCotizacion()
+        public static double GetCotizacion()
         {
 
             double Cotizacion = Peso.cotizRespectoDolar;
@@ -44,7 +44,7 @@ namespace Ejercicio20
         public static explicit operator Dolar(Peso p) {
 
             Dolar d;
-            double total = p.Cantidad / 38.33;
+            double total = p.Cantidad / Peso.GetCotizacion();
             d = new Dolar(total);
 
             return d; 
@@ -53,7 +53,7 @@ namespace Ejercicio20
         public static explicit operator Euro(Peso p) {
 
             Euro e;
-            double total = (p.Cantidad / 38.33) * 1.16;
+            double total = p.Cantidad / Peso.GetCotizacion();
             e = new Euro(total);
 
             return e;

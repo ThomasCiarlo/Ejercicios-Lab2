@@ -5,3 +5,10 @@ E:\Clase2\Ejercicio17\obj\Debug\Ejercicio17.csprojAssemblyReference.cache
 E:\Clase2\Ejercicio17\obj\Debug\Ejercicio17.csproj.CoreCompileInputs.cache
 E:\Clase2\Ejercicio17\obj\Debug\Ejercicio17.exe
 E:\Clase2\Ejercicio17\obj\Debug\Ejercicio17.pdb
+D:\Thomas\Ejercicios-Lab2\Ejercicios\Ejercicio17\bin\Debug\Ejercicio17.exe.config
+D:\Thomas\Ejercicios-Lab2\Ejercicios\Ejercicio17\bin\Debug\Ejercicio17.exe
+D:\Thomas\Ejercicios-Lab2\Ejercicios\Ejercicio17\bin\Debug\Ejercicio17.pdb
+D:\Thomas\Ejercicios-Lab2\Ejercicios\Ejercicio17\obj\Debug\Ejercicio17.csprojAssemblyReference.cache
+D:\Thomas\Ejercicios-Lab2\Ejercicios\Ejercicio17\obj\Debug\Ejercicio17.csproj.CoreCompileInputs.cache
+D:\Thomas\Ejercicios-Lab2\Ejercicios\Ejercicio17\obj\Debug\Ejercicio17.exe
+D:\Thomas\Ejercicios-Lab2\Ejercicios\Ejercicio17\obj\Debug\Ejercicio17.pdb

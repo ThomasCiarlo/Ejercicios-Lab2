@@ -1,0 +1,7 @@
+D:\Thomas\Ejercicios-Lab2\Ejercicios\Ejercios26\bin\Debug\Ejercios26.exe.config
+D:\Thomas\Ejercicios-Lab2\Ejercicios\Ejercios26\bin\Debug\Ejercios26.exe
+D:\Thomas\Ejercicios-Lab2\Ejercicios\Ejercios26\bin\Debug\Ejercios26.pdb
+D:\Thomas\Ejercicios-Lab2\Ejercicios\Ejercios26\obj\Debug\Ejercios26.csproj.CoreCompileInputs.cache
+D:\Thomas\Ejercicios-Lab2\Ejercicios\Ejercios26\obj\Debug\Ejercios26.exe
+D:\Thomas\Ejercicios-Lab2\Ejercicios\Ejercios26\obj\Debug\Ejercios26.pdb
+D:\Thomas\Ejercicios-Lab2\Ejercicios\Ejercios26\obj\Debug\Ejercios26.csprojAssemblyReference.cache

@@ -30,13 +30,22 @@ namespace Ejercicio20
             return cantidad;
         }
 
+        public static double GetCotizacion()
+        {
+
+            double cotizacion = Dolar.cotizRespectoDolar;
+            return cotizacion;
+
+        }
+
+
         public static explicit operator Euro(Dolar d)
         {
 
             double valor;
             Euro e;
 
-            valor = d.cantidad * 1.16;
+            valor = d.cantidad * Euro.GetCotizacion();
 
             e = new Euro(valor);
 
@@ -48,7 +57,7 @@ namespace Ejercicio20
             Peso p;
             double valor;
 
-            valor = d.cantidad * 38.33;
+            valor = d.cantidad * Peso.GetCotizacion();
 
             p = new Peso(valor);
 
@@ -144,7 +153,7 @@ namespace Ejercicio20
             double total;
             Dolar dola;
 
-            total = d.cantidad - (cantidad * 1.16);
+            total = d.cantidad - (cantidad * Euro.GetCotizacion());
 
             dola = new Dolar(total);
 
@@ -160,7 +169,7 @@ namespace Ejercicio20
             double total;
             Dolar dola;
 
-            total = d.cantidad - (cantidad / 38.33);
+            total = d.cantidad - (cantidad / Peso.GetCotizacion());
 
             dola = new Dolar(total);
 

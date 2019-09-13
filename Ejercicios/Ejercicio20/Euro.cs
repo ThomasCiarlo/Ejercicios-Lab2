@@ -44,7 +44,7 @@ namespace Ejercicio20
             Dolar dolar;
             double valor;
 
-            valor = e.cantidad * 1.16;
+            valor = e.cantidad * Dolar.GetCotizacion();
 
             dolar = new Dolar(valor);
 
@@ -57,7 +57,7 @@ namespace Ejercicio20
             Peso p;
             double valor;
 
-            valor = (e.cantidad * 1.16) * 38.33;
+            valor = (e.cantidad * Euro.GetCotizacion());
 
             p = new Peso(valor);
 
