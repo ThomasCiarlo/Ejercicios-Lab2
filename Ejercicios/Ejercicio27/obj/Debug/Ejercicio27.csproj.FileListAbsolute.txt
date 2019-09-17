@@ -1,0 +1,7 @@
+C:\Users\Tomas Ciarl\Desktop\Facu\2 cuatrimestre\Ejercicios\Ejercicios-Lab2\Ejercicios\Ejercicio27\bin\Debug\Ejercicio27.exe.config
+C:\Users\Tomas Ciarl\Desktop\Facu\2 cuatrimestre\Ejercicios\Ejercicios-Lab2\Ejercicios\Ejercicio27\bin\Debug\Ejercicio27.exe
+C:\Users\Tomas Ciarl\Desktop\Facu\2 cuatrimestre\Ejercicios\Ejercicios-Lab2\Ejercicios\Ejercicio27\bin\Debug\Ejercicio27.pdb
+C:\Users\Tomas Ciarl\Desktop\Facu\2 cuatrimestre\Ejercicios\Ejercicios-Lab2\Ejercicios\Ejercicio27\obj\Debug\Ejercicio27.csprojAssemblyReference.cache
+C:\Users\Tomas Ciarl\Desktop\Facu\2 cuatrimestre\Ejercicios\Ejercicios-Lab2\Ejercicios\Ejercicio27\obj\Debug\Ejercicio27.csproj.CoreCompileInputs.cache
+C:\Users\Tomas Ciarl\Desktop\Facu\2 cuatrimestre\Ejercicios\Ejercicios-Lab2\Ejercicios\Ejercicio27\obj\Debug\Ejercicio27.exe
+C:\Users\Tomas Ciarl\Desktop\Facu\2 cuatrimestre\Ejercicios\Ejercicios-Lab2\Ejercicios\Ejercicio27\obj\Debug\Ejercicio27.pdb

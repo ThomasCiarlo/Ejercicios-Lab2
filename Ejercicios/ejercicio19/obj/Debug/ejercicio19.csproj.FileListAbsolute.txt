@@ -12,3 +12,10 @@ C:\Users\Tomas Ciarl\Desktop\Facu\2 cuatrimestre\Ejercicios\ejercicio19\obj\Debu
 C:\Users\Tomas Ciarl\Desktop\Facu\2 cuatrimestre\Ejercicios\ejercicio19\obj\Debug\ejercicio19.csproj.CoreCompileInputs.cache
 C:\Users\Tomas Ciarl\Desktop\Facu\2 cuatrimestre\Ejercicios\ejercicio19\obj\Debug\ejercicio19.exe
 C:\Users\Tomas Ciarl\Desktop\Facu\2 cuatrimestre\Ejercicios\ejercicio19\obj\Debug\ejercicio19.pdb
+C:\Users\Tomas Ciarl\Desktop\Facu\2 cuatrimestre\Ejercicios\Ejercicios-Lab2\Ejercicios\ejercicio19\bin\Debug\ejercicio19.exe.config
+C:\Users\Tomas Ciarl\Desktop\Facu\2 cuatrimestre\Ejercicios\Ejercicios-Lab2\Ejercicios\ejercicio19\bin\Debug\ejercicio19.exe
+C:\Users\Tomas Ciarl\Desktop\Facu\2 cuatrimestre\Ejercicios\Ejercicios-Lab2\Ejercicios\ejercicio19\bin\Debug\ejercicio19.pdb
+C:\Users\Tomas Ciarl\Desktop\Facu\2 cuatrimestre\Ejercicios\Ejercicios-Lab2\Ejercicios\ejercicio19\obj\Debug\ejercicio19.csprojAssemblyReference.cache
+C:\Users\Tomas Ciarl\Desktop\Facu\2 cuatrimestre\Ejercicios\Ejercicios-Lab2\Ejercicios\ejercicio19\obj\Debug\ejercicio19.csproj.CoreCompileInputs.cache
+C:\Users\Tomas Ciarl\Desktop\Facu\2 cuatrimestre\Ejercicios\Ejercicios-Lab2\Ejercicios\ejercicio19\obj\Debug\ejercicio19.exe
+C:\Users\Tomas Ciarl\Desktop\Facu\2 cuatrimestre\Ejercicios\Ejercicios-Lab2\Ejercicios\ejercicio19\obj\Debug\ejercicio19.pdb
