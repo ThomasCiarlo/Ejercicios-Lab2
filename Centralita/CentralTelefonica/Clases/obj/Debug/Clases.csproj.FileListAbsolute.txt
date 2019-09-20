@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Clases\bin\Debug\Clases.dll
+C:\Users\alumno\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Clases\bin\Debug\Clases.pdb
+C:\Users\alumno\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Clases\obj\Debug\Clases.dll
+C:\Users\alumno\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Clases\obj\Debug\Clases.pdb

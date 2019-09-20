@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Clases
 {
-    class Local : Llamada
+    public class Local : Llamada
     {
         protected float costo;
         public float CostoLlamada { get { return this.CalcularCosto(); } }
@@ -23,11 +23,20 @@ namespace Clases
             this.costo = costo;
         }
 
-        public Local(float duracion,string origen, string destino, float costo): base(duracion,destino,origen)
+        public Local(string origen, float duracion, string destino, float costo): base(duracion,destino,origen)
         {
             this.costo = costo; 
                        
         }
+
+        public string Mostrar()
+        {
+
+          StringBuilder texto = new StringBuilder($"{base.Mostar()}. El costo es de: {this.CostoLlamada}");
+
+           return texto.ToString();
+        }
+
         
     }
 }

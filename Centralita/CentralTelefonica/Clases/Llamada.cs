@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -25,12 +25,22 @@ namespace Clases
 
         public string Mostar()
         {
-            StringBuilder texto = new StringBuilder($"Duracion: {Duracion}, Numero de destino: {NroDestino}, Numero de origen: {NroOrigen}");
+            StringBuilder texto = new StringBuilder($"Duracion: {Duracion}\nNumero de destino: {NroDestino}\nNumero de origen: {NroOrigen}\n");
 
             return texto.ToString();
         }
 
-        public enum TipoLlamada
+    public static int OrdenarLista(Llamada a, Llamada b)
+    {
+      if (a.Duracion > b.Duracion)
+        return -1;
+      else if (a.Duracion > b.Duracion)
+        return 1;
+      else
+        return 0;
+    }
+
+    public enum TipoLlamada
         {
             Local,
             Provincial,
