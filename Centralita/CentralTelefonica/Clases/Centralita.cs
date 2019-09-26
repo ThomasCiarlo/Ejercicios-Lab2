@@ -98,6 +98,11 @@ namespace Clases
       return total;
     }
 
+    private void AgregarLlamada(Llamada llamadaNueva)
+    {
+      this.listaDeLlamadas.Add(llamadaNueva);
+    }
+
     public string Mostrar() {
 
       StringBuilder texto = new StringBuilder($"\nEmpresa: {this.razonSocial}, \nTotal ganado:" +
@@ -105,7 +110,7 @@ namespace Clases
         $"\nGanado por las provincial: {this.GananciasPorProvincial}\n\n");
 
       foreach (Llamada c in this.listaDeLlamadas) {
-        texto.Append($"\n{c.Mostar()}");
+        texto.Append($"\n{c.ToString()}\n");
       }
       texto.Append("\n--------------------------------------------\n");
       return texto.ToString();
@@ -116,6 +121,41 @@ namespace Clases
     public void OrdenarLlamadas() {
 
       this.listaDeLlamadas.Sort(Llamada.OrdenarLista);
+
+    }
+
+    public static bool operator ==(Centralita central, Llamada l1)
+    {
+      bool todoOk = false;
+
+      foreach(Llamada c in central.listaDeLlamadas)
+      {
+        if(c == l1)
+        {
+          todoOk = true;
+        }
+
+      }
+      return todoOk;
+    }
+
+    public static bool operator !=(Centralita central, Llamada l1)
+    {
+
+      return !(central == l1);
+
+    }
+
+    public static Centralita operator +(Centralita central, Llamada l1)
+    {
+
+      if(central != l1)
+      {
+        central.AgregarLlamada(l1);
+
+      }
+
+      return central;
 
     }
 

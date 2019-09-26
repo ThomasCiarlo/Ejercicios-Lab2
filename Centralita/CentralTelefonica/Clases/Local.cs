@@ -9,7 +9,8 @@ namespace Clases
     public class Local : Llamada
     {
         protected float costo;
-        public float CostoLlamada { get { return this.CalcularCosto(); } }
+
+        public override float CostoLlamada { get { return this.CalcularCosto(); } set { this.CostoLlamada = value; } }
 
        private float CalcularCosto()
         {
@@ -29,14 +30,29 @@ namespace Clases
                        
         }
 
-        public string Mostrar()
+        protected override string Mostrar()
         {
 
-          StringBuilder texto = new StringBuilder($"{base.Mostar()}. El costo es de: {this.CostoLlamada}");
+          StringBuilder texto = new StringBuilder($"{base.Mostrar()}. El costo es de: {this.CostoLlamada}");
 
            return texto.ToString();
         }
 
-        
+       public override bool Equals(object obj) {
+
+            bool x = false;
+
+             return x = obj is Local;
+
+       }
+
+      public override string ToString()
+    {
+
+      return this.Mostrar();
+
+    }
+
+
     }
 }

@@ -11,7 +11,7 @@ namespace Clases
       protected Franja franjaHoraria;
 
 
-    public float CostoLlamada { get { return this.CalcularCosto(); } }
+    public override float CostoLlamada { get { return this.CalcularCosto(); } set { this.CostoLlamada = value; } }
 
     public Provincial(Franja miFranja, Llamada llamada):base(llamada.Duracion,llamada.NroDestino,llamada.NroOrigen) {
 
@@ -44,9 +44,9 @@ namespace Clases
       return total;
     }
 
-    public string Mostrar() {
+    protected override string Mostrar() {
 
-      StringBuilder texto = new StringBuilder($"{base.Mostar()}. El costo es {this.CostoLlamada}");
+      StringBuilder texto = new StringBuilder($"{base.Mostrar()}. El costo es {this.CostoLlamada}");
 
       return texto.ToString();
 
@@ -58,5 +58,19 @@ namespace Clases
       Franja_2,
       Franja_3
     }
+
+    public override bool Equals(object obj)
+    {
+
+      return obj is Provincial;
     }
+
+    public override string ToString()
+    {
+      return this.Mostrar();
+    }
+
+
+
+  }
 }

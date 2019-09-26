@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29306.81
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralitaHerencia", "CentralitaHerencia\CentralitaHerencia.csproj", "{BA2478B4-A616-44B7-9D9D-9A0B93B11F69}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases", "Clases\Clases.csproj", "{68AAB405-3BC3-4527-8B9E-123DDAAE5A4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formularios", "Formularios\Formularios.csproj", "{BA934A29-2BB5-46D4-8FB1-5CACDA0B4942}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{68AAB405-3BC3-4527-8B9E-123DDAAE5A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68AAB405-3BC3-4527-8B9E-123DDAAE5A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68AAB405-3BC3-4527-8B9E-123DDAAE5A4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA934A29-2BB5-46D4-8FB1-5CACDA0B4942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA934A29-2BB5-46D4-8FB1-5CACDA0B4942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA934A29-2BB5-46D4-8FB1-5CACDA0B4942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA934A29-2BB5-46D4-8FB1-5CACDA0B4942}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
