@@ -44,6 +44,7 @@
             this.bntGenerarLlamada.TabIndex = 0;
             this.bntGenerarLlamada.Text = "Generar Llamada";
             this.bntGenerarLlamada.UseVisualStyleBackColor = true;
+            this.bntGenerarLlamada.Click += new System.EventHandler(this.bntGenerarLlamada_Click);
             // 
             // btnFacturacionTotal
             // 
@@ -54,6 +55,7 @@
             this.btnFacturacionTotal.TabIndex = 1;
             this.btnFacturacionTotal.Text = "FacturacionTotal";
             this.btnFacturacionTotal.UseVisualStyleBackColor = true;
+            this.btnFacturacionTotal.Click += new System.EventHandler(this.btnFacturacionTotal_Click);
             // 
             // btnFacturacionLocal
             // 
@@ -64,6 +66,7 @@
             this.btnFacturacionLocal.TabIndex = 2;
             this.btnFacturacionLocal.Text = "Facturacion Local";
             this.btnFacturacionLocal.UseVisualStyleBackColor = true;
+            this.btnFacturacionLocal.Click += new System.EventHandler(this.btnFacturacionLocal_Click);
             // 
             // btnFacturacionProvincial
             // 
@@ -85,6 +88,7 @@
             this.btnSalir.TabIndex = 4;
             this.btnSalir.Text = "Salir";
             this.btnSalir.UseVisualStyleBackColor = true;
+            this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
             // 
             // frmMenu
             // 
@@ -97,6 +101,7 @@
             this.Controls.Add(this.btnFacturacionTotal);
             this.Controls.Add(this.bntGenerarLlamada);
             this.Name = "frmMenu";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Central Telefonica";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
