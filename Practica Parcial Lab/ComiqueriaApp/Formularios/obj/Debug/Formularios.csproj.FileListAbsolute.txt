@@ -1,0 +1,11 @@
+C:\Users\Thomas\Desktop\Facultad\ComiqueriaApp\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Thomas\Desktop\Facultad\ComiqueriaApp\Formularios\bin\Debug\Formularios.exe
+C:\Users\Thomas\Desktop\Facultad\ComiqueriaApp\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Thomas\Desktop\Facultad\ComiqueriaApp\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Thomas\Desktop\Facultad\ComiqueriaApp\Formularios\obj\Debug\Formularios.formVentas.resources
+C:\Users\Thomas\Desktop\Facultad\ComiqueriaApp\Formularios\obj\Debug\Formularios.frmPrincipal.resources
+C:\Users\Thomas\Desktop\Facultad\ComiqueriaApp\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Thomas\Desktop\Facultad\ComiqueriaApp\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Thomas\Desktop\Facultad\ComiqueriaApp\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Facultad\ComiqueriaApp\Formularios\obj\Debug\Formularios.exe
+C:\Users\Thomas\Desktop\Facultad\ComiqueriaApp\Formularios\obj\Debug\Formularios.pdb
