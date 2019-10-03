@@ -49,7 +49,7 @@
             this.richText.Size = new System.Drawing.Size(635, 303);
             this.richText.TabIndex = 3;
             this.richText.Text = "";
-            
+            this.richText.TextChanged += new System.EventHandler(this.RichText_TextChanged);
             // 
             // frmMostrar
             // 

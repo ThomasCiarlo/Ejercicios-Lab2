@@ -58,7 +58,7 @@ namespace Formularios
             this.txtNroDestino.Name = "txtNroDestino";
             this.txtNroDestino.Size = new System.Drawing.Size(368, 32);
             this.txtNroDestino.TabIndex = 0;
-            this.txtNroDestino.Text = "Numero Destino";           
+            this.txtNroDestino.Text = "Numero Destino";
             // 
             // groupBox1
             // 
@@ -80,6 +80,7 @@ namespace Formularios
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Panel";
+            this.groupBox1.Enter += new System.EventHandler(this.GroupBox1_Enter);
             // 
             // btnAsterisco
             // 

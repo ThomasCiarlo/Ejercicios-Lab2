@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ComprobantesLogic;
+
 
 namespace ComiqueriaLogic
 {
@@ -10,6 +12,7 @@ namespace ComiqueriaLogic
     {
         private List<Producto> productos;
         private List<Venta> ventas;
+        private static Stack<Comprobante> comprobantes;
 
         public Comiqueria() {
 
@@ -31,6 +34,36 @@ namespace ComiqueriaLogic
                 return p;
             } }
 
+        public List<Comprobante> this[Producto producto, bool ordenar] {
+
+            get
+            {
+                List<Comprobante> lista = new List<Comprobante>();
+
+                foreach (Comprobante c in Comiqueria.comprobantes) {
+
+                    Producto p = (Producto)c.Venta;
+
+                    if ((Guid)p == (Guid)producto) {
+
+                        lista.Add(c);
+
+                    }
+                }
+
+                if (ordenar) {
+                    lista.Sort();
+                    lista.Reverse();
+                }
+
+                return lista;
+            }
+
+        }
+
+        #region sobreCarga
+
+        
         public static bool operator ==(Comiqueria c, Producto p) {
 
             bool todoOk = false;
@@ -62,8 +95,38 @@ namespace ComiqueriaLogic
 
         }
 
+        public static bool operator ==(Comiqueria comiqueria, Comprobante comprobante) {
+
+            bool todoOK = false;
+
+            foreach (Comprobante c in Comiqueria.comprobantes) {
+
+                if (c == comprobante) {
+                    todoOK = true;
+                }
+
+            }
+
+            return todoOK;
+           
+
+        }
+
+        public static bool operator !=(Comiqueria comiqueria, Comprobante comprobante) {
+
+            return !(comiqueria == comprobante);
+
+        }
+
+        #endregion
+
+        static Comiqueria() {
+
+            Comiqueria.comprobantes = new Stack<Comprobante>();
+        }
+
         public void Vender(Producto p) {
-            Vender(p, 1);
+            Vender(p, 1); 
         }
 
         public void Vender(Producto producto, int cantidad) {

@@ -14,7 +14,14 @@ namespace ComiqueriaLogic
         private string descripcion;
 
         public string Descripcion { get {return this.descripcion; } }
-        public double Precio { get { return this.precio; } }
+        public double Precio {
+            get {
+                 return this.precio;
+                }
+            set { if (value >= 1)
+                    this.precio = value;
+                }
+        }
         public int Stock {
             get { return this.stock; }
             set { if (value >= 0)

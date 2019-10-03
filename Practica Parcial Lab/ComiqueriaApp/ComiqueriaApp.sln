@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComiqueriaApp", "Comiqueria
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComiqueriaLogic", "ComiqueriaLogic\ComiqueriaLogic.csproj", "{FED9AEB0-C70E-4A9B-BFED-6625C76DAF38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formularios", "Formularios\Formularios.csproj", "{5C928571-78AF-4136-A9A2-DAF3A040A35E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{FED9AEB0-C70E-4A9B-BFED-6625C76DAF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FED9AEB0-C70E-4A9B-BFED-6625C76DAF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FED9AEB0-C70E-4A9B-BFED-6625C76DAF38}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5C928571-78AF-4136-A9A2-DAF3A040A35E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5C928571-78AF-4136-A9A2-DAF3A040A35E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5C928571-78AF-4136-A9A2-DAF3A040A35E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5C928571-78AF-4136-A9A2-DAF3A040A35E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

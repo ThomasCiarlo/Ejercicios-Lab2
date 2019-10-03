@@ -57,6 +57,7 @@
             this.richTextBoxVentas.Size = new System.Drawing.Size(746, 128);
             this.richTextBoxVentas.TabIndex = 1;
             this.richTextBoxVentas.Text = "";
+            this.richTextBoxVentas.TextChanged += new System.EventHandler(this.RichTextBoxVentas_TextChanged);
             // 
             // groupBoxAcciones
             // 
@@ -76,7 +77,6 @@
             this.btnVender.TabIndex = 0;
             this.btnVender.Text = "Vender";
             this.btnVender.UseVisualStyleBackColor = true;
-            this.btnVender.Click += this.OnVenderClick;
             // 
             // richTextBoxDetalle
             // 

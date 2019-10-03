@@ -92,5 +92,10 @@ namespace ComiqueriaApp
                 this.richTextBoxVentas.Text = this.comiqueria.ListarVentas();
             }
         }
+
+        private void RichTextBoxVentas_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

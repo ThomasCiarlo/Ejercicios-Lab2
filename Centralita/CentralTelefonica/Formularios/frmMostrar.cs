@@ -28,7 +28,6 @@ namespace Formularios
         {
 
            
-
             foreach (Llamada c in central.Llamadas)
             {
                 switch (this.tipo)
@@ -39,13 +38,15 @@ namespace Formularios
                     case Llamada.TipoLlamada.Provincial:
                         if(c is Provincial)
                         {
+                          richText.Text = (central.GananciasPorProvincial.ToString()+"\n");
                           richText.Text +=  c.ToString();
                         }
                         break;
                     case Llamada.TipoLlamada.Local:
                         if (c is Local)
                         {
-                           richText.Text += c.ToString();
+                            richText.Text = (central.GananciasPorLocal.ToString() + "\n");
+                            richText.Text += c.ToString();
                         }
                         break;
                     default:
@@ -64,6 +65,9 @@ namespace Formularios
 
         }
 
-        
+        private void RichText_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -40,12 +40,13 @@
             // lblDescripcion
             // 
             this.lblDescripcion.AutoSize = true;
-            this.lblDescripcion.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblDescripcion.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblDescripcion.Location = new System.Drawing.Point(12, 25);
             this.lblDescripcion.Name = "lblDescripcion";
-            this.lblDescripcion.Size = new System.Drawing.Size(42, 16);
+            this.lblDescripcion.Size = new System.Drawing.Size(33, 15);
             this.lblDescripcion.TabIndex = 0;
             this.lblDescripcion.Text = "desc";
+            this.lblDescripcion.Click += new System.EventHandler(this.LblDescripcion_Click);
             // 
             // lblCantidad
             // 
@@ -73,6 +74,7 @@
             0,
             0,
             0});
+            this.numericUpDown1.ValueChanged += new System.EventHandler(this.NumericUpDown1_ValueChanged);
             // 
             // lblPrecioFinal
             // 
@@ -108,7 +110,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(253, 159);
+            this.ClientSize = new System.Drawing.Size(317, 159);
             this.Controls.Add(this.btnCancelar);
             this.Controls.Add(this.btnVender);
             this.Controls.Add(this.lblPrecioFinal);

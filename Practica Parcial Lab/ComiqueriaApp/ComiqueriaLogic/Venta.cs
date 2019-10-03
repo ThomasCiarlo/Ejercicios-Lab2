@@ -10,10 +10,13 @@ namespace ComiqueriaLogic
     {
         private DateTime fecha;
         private static int porcentaje;
+        private int cantidad;
         private double precioFinal;
         private Producto producto;
 
         internal DateTime Fecha { get { return this.fecha; } }
+
+        public int Cantidad { get { return this.cantidad; } }
 
         static Venta() {           
             Venta.porcentaje = 21;
@@ -22,6 +25,7 @@ namespace ComiqueriaLogic
         internal Venta(Producto producto, int cantidad) {
 
             this.producto = producto;
+            this.cantidad = cantidad;
             Vender(cantidad);
             
         }
@@ -59,6 +63,12 @@ namespace ComiqueriaLogic
                 return 1;
             else
                 return 0;
+        }
+
+        public static explicit operator Producto(Venta v) {
+
+            return v.producto;
+
         }
 
 

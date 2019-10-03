@@ -63,3 +63,17 @@ C:\Users\Thomas\Desktop\Facultad\ComiqueriaApp\ComiqueriaApp\bin\Debug\Comiqueri
 C:\Users\Thomas\Desktop\Facultad\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CopyComplete
 C:\Users\Thomas\Desktop\Facultad\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.exe
 C:\Users\Thomas\Desktop\Facultad\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.pdb
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Practica Parcial Lab\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe.config
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Practica Parcial Lab\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Practica Parcial Lab\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.pdb
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Practica Parcial Lab\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaLogic.dll
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Practica Parcial Lab\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaLogic.pdb
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Practica Parcial Lab\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csprojAssemblyReference.cache
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Practica Parcial Lab\ComiqueriaApp\ComiqueriaApp\obj\Debug\Formularios.formVentas.resources
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Practica Parcial Lab\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.PrincipalForm.resources
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Practica Parcial Lab\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.Properties.Resources.resources
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Practica Parcial Lab\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.GenerateResource.cache
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Practica Parcial Lab\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CoreCompileInputs.cache
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Practica Parcial Lab\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CopyComplete
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Practica Parcial Lab\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.exe
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Practica Parcial Lab\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.pdb

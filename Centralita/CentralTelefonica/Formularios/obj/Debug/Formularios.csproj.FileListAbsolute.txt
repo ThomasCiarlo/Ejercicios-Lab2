@@ -28,3 +28,18 @@ D:\Ciarlo\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\obj\Debug\For
 D:\Ciarlo\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\obj\Debug\Formularios.csproj.CopyComplete
 D:\Ciarlo\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\obj\Debug\Formularios.exe
 D:\Ciarlo\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\bin\Debug\Formularios.exe
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\bin\Debug\Clases.dll
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\bin\Debug\Clases.pdb
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\obj\Debug\Formularios.frmMostrar.resources
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\obj\Debug\Formularios.frmMenu.resources
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\obj\Debug\Formularios.frmLlamador.resources
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\obj\Debug\Formularios.exe
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\obj\Debug\Formularios.pdb
