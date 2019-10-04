@@ -165,6 +165,40 @@ namespace ComiqueriaLogic
 
         }
 
+        private bool AgregarComprobante(Comprobante comprobante) {
+
+            bool todoOk = true;
+
+            foreach (Comprobante c in Comiqueria.comprobantes) {
+
+                if (c.Venta == comprobante.Venta) {
+
+                    todoOk = false;
+
+                }
+
+            }
+
+            if (todoOk) {
+
+                Comiqueria.comprobantes.Push(comprobante);
+
+            }
+
+            return todoOk;
+
+        }
+
+        private bool AgregarComprobante(Venta venta) {
+
+            Factura fac = new Factura(venta, Factura.TipoFactura.B);
+
+            return this.AgregarComprobante(fac);
+            
+        }
+
+
+
 
     }
 }

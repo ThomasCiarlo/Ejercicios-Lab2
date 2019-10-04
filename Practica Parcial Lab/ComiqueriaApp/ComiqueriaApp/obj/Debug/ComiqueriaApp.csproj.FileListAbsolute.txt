@@ -77,3 +77,4 @@ C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Practica Parcial Lab\ComiqueriaApp\
 C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Practica Parcial Lab\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CopyComplete
 C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Practica Parcial Lab\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.exe
 C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Practica Parcial Lab\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.pdb
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Practica Parcial Lab\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.FrmModificarProducto.resources

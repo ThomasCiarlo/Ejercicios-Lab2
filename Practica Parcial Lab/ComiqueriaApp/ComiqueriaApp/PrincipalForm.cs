@@ -75,12 +75,24 @@ namespace ComiqueriaApp
             this.richTextBoxDetalle.Text = this.productoSeleccionado.ToString();
         }
 
+        private void RichTextBoxVentas_TextChanged(object sender, EventArgs e)
+        {
+        }
+
+        private void BtnModificar_Click(object sender, EventArgs e)
+        {
+            FrmModificarProducto frmModificar = new FrmModificarProducto(comiqueria, productoSeleccionado);
+            frmModificar.Show();
+
+        }
+
+
         /// <summary>
         /// Manejador del evento click del botón vender. 
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
-        private void OnVenderClick(object sender, EventArgs e)
+        private void BtnVender_Click(object sender, EventArgs e)
         {
             //Si el constructor tiene parámetros de entrada proporcionarle los argumentos que correspondan.
             //El campo "productoSeleccionado" contiene el producto actualmente seleccionado en el listBox de productos. 
@@ -91,11 +103,6 @@ namespace ComiqueriaApp
             {
                 this.richTextBoxVentas.Text = this.comiqueria.ListarVentas();
             }
-        }
-
-        private void RichTextBoxVentas_TextChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }
