@@ -1,0 +1,15 @@
+D:\Ciarlo\20191010-PrimerParcial-alumno\FormulacioParcial\bin\Debug\FormulacioParcial.exe.config
+D:\Ciarlo\20191010-PrimerParcial-alumno\FormulacioParcial\bin\Debug\FormulacioParcial.exe
+D:\Ciarlo\20191010-PrimerParcial-alumno\FormulacioParcial\bin\Debug\FormulacioParcial.pdb
+D:\Ciarlo\20191010-PrimerParcial-alumno\FormulacioParcial\bin\Debug\Clases.dll
+D:\Ciarlo\20191010-PrimerParcial-alumno\FormulacioParcial\bin\Debug\ControlesUsuario.dll
+D:\Ciarlo\20191010-PrimerParcial-alumno\FormulacioParcial\bin\Debug\Clases.pdb
+D:\Ciarlo\20191010-PrimerParcial-alumno\FormulacioParcial\bin\Debug\ControlesUsuario.pdb
+D:\Ciarlo\20191010-PrimerParcial-alumno\FormulacioParcial\obj\Debug\FormulacioParcial.csprojAssemblyReference.cache
+D:\Ciarlo\20191010-PrimerParcial-alumno\FormulacioParcial\obj\Debug\FormulacioParcial.Form1.resources
+D:\Ciarlo\20191010-PrimerParcial-alumno\FormulacioParcial\obj\Debug\FormulacioParcial.Properties.Resources.resources
+D:\Ciarlo\20191010-PrimerParcial-alumno\FormulacioParcial\obj\Debug\FormulacioParcial.csproj.GenerateResource.cache
+D:\Ciarlo\20191010-PrimerParcial-alumno\FormulacioParcial\obj\Debug\FormulacioParcial.csproj.CoreCompileInputs.cache
+D:\Ciarlo\20191010-PrimerParcial-alumno\FormulacioParcial\obj\Debug\FormulacioParcial.csproj.CopyComplete
+D:\Ciarlo\20191010-PrimerParcial-alumno\FormulacioParcial\obj\Debug\FormulacioParcial.exe
+D:\Ciarlo\20191010-PrimerParcial-alumno\FormulacioParcial\obj\Debug\FormulacioParcial.pdb
