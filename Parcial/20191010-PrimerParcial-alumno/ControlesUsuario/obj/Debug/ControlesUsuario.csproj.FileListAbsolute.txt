@@ -22,3 +22,15 @@ D:\Ciarlo\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Debug\ControlesUsua
 D:\Ciarlo\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Debug\ControlesUsuario.csproj.CopyComplete
 D:\Ciarlo\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Debug\ControlesUsuario.dll
 D:\Ciarlo\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Debug\ControlesUsuario.pdb
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\ControlesUsuario\bin\Debug\ControlesUsuario.dll
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\ControlesUsuario\bin\Debug\ControlesUsuario.pdb
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\ControlesUsuario\bin\Debug\Clases.dll
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\ControlesUsuario\bin\Debug\Clases.pdb
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Debug\ControlesUsuario.csprojAssemblyReference.cache
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Debug\ControlCantina.Barra.resources
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Debug\ControlesUsuario.Properties.Resources.resources
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Debug\ControlesUsuario.csproj.GenerateResource.cache
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Debug\ControlesUsuario.csproj.CoreCompileInputs.cache
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Debug\ControlesUsuario.csproj.CopyComplete
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Debug\ControlesUsuario.dll
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Debug\ControlesUsuario.pdb

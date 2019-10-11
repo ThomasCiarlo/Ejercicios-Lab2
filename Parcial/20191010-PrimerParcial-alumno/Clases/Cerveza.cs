@@ -42,7 +42,7 @@ namespace Clases
 
         public override int ServirMedida()
         {
-            int retorno = 1;
+            int retorno = MEDIDA;
 
             int contenidoServido = this.contenidoML * 80 / 100;
 

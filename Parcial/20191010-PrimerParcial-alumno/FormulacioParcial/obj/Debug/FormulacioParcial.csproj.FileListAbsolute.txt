@@ -13,3 +13,18 @@ D:\Ciarlo\20191010-PrimerParcial-alumno\FormulacioParcial\obj\Debug\FormulacioPa
 D:\Ciarlo\20191010-PrimerParcial-alumno\FormulacioParcial\obj\Debug\FormulacioParcial.csproj.CopyComplete
 D:\Ciarlo\20191010-PrimerParcial-alumno\FormulacioParcial\obj\Debug\FormulacioParcial.exe
 D:\Ciarlo\20191010-PrimerParcial-alumno\FormulacioParcial\obj\Debug\FormulacioParcial.pdb
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\FormulacioParcial\bin\Debug\FormulacioParcial.exe.config
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\FormulacioParcial\bin\Debug\FormulacioParcial.exe
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\FormulacioParcial\bin\Debug\FormulacioParcial.pdb
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\FormulacioParcial\bin\Debug\Clases.dll
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\FormulacioParcial\bin\Debug\ControlesUsuario.dll
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\FormulacioParcial\bin\Debug\Clases.pdb
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\FormulacioParcial\bin\Debug\ControlesUsuario.pdb
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\FormulacioParcial\obj\Debug\FormulacioParcial.csprojAssemblyReference.cache
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\FormulacioParcial\obj\Debug\FormulacioParcial.Form1.resources
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\FormulacioParcial\obj\Debug\FormulacioParcial.Properties.Resources.resources
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\FormulacioParcial\obj\Debug\FormulacioParcial.csproj.GenerateResource.cache
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\FormulacioParcial\obj\Debug\FormulacioParcial.csproj.CoreCompileInputs.cache
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\FormulacioParcial\obj\Debug\FormulacioParcial.csproj.CopyComplete
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\FormulacioParcial\obj\Debug\FormulacioParcial.exe
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\FormulacioParcial\obj\Debug\FormulacioParcial.pdb

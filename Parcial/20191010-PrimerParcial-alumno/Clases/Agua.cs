@@ -17,7 +17,7 @@ namespace Clases
 
         public override int ServirMedida()
         {
-            int retorno = 1;
+            int retorno = MEDIDA;
 
             if (MEDIDA <= this.contenidoML)
             {

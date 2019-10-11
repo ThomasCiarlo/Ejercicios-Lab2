@@ -4,3 +4,9 @@ D:\Ciarlo\20191010-PrimerParcial-alumno\Clases\obj\Debug\Clases.csprojAssemblyRe
 D:\Ciarlo\20191010-PrimerParcial-alumno\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
 D:\Ciarlo\20191010-PrimerParcial-alumno\Clases\obj\Debug\Clases.dll
 D:\Ciarlo\20191010-PrimerParcial-alumno\Clases\obj\Debug\Clases.pdb
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\Clases\bin\Debug\Clases.dll
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\Clases\bin\Debug\Clases.pdb
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\Clases\obj\Debug\Clases.dll
+C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Parcial\20191010-PrimerParcial-alumno\Clases\obj\Debug\Clases.pdb
