@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases", "Clases\Clases.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formularios", "Formularios\Formularios.csproj", "{BA934A29-2BB5-46D4-8FB1-5CACDA0B4942}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebasCentralita", "PruebasCentralita\PruebasCentralita.csproj", "{27920EDF-267A-43E1-B785-69176A36B070}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BA934A29-2BB5-46D4-8FB1-5CACDA0B4942}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA934A29-2BB5-46D4-8FB1-5CACDA0B4942}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA934A29-2BB5-46D4-8FB1-5CACDA0B4942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27920EDF-267A-43E1-B785-69176A36B070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27920EDF-267A-43E1-B785-69176A36B070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27920EDF-267A-43E1-B785-69176A36B070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27920EDF-267A-43E1-B785-69176A36B070}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

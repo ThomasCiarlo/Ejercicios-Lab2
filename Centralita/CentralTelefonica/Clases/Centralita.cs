@@ -11,7 +11,7 @@ namespace Clases
     private List<Llamada> listaDeLlamadas;
     protected string razonSocial;
 
-    public float GananciasPorLocal { get { return this.CalcularGanacia(Llamada.TipoLlamada.Local);  } }
+    public float GananciasPorLocal { get { return this.CalcularGanacia(Llamada.TipoLlamada.Local); } }
     public float GananciasPorProvincial { get { return this.CalcularGanacia(Llamada.TipoLlamada.Provincial); } }
     public float GananciasPorTodas { get { return this.CalcularGanacia(Llamada.TipoLlamada.Todas); } }
     public List<Llamada> Llamadas { get { return this.listaDeLlamadas; } }
@@ -19,22 +19,25 @@ namespace Clases
 
 
 
-    public Centralita() {
+    public Centralita()
+    {
 
       listaDeLlamadas = new List<Llamada>();
 
     }
 
-    public Centralita(string nombreEmpresa):this() {
+    public Centralita(string nombreEmpresa) : this()
+    {
 
       this.razonSocial = nombreEmpresa;
 
     }
 
 
-    private float CalcularGanacia(Llamada.TipoLlamada tipo) {
+    private float CalcularGanacia(Llamada.TipoLlamada tipo)
+    {
 
-      float total=0;
+      float total = 0;
       Local local;
       Provincial provincial;
 
@@ -80,7 +83,8 @@ namespace Clases
         }
 
       }
-      else {
+      else
+      {
         foreach (Llamada c in listaDeLlamadas)
         {
 
@@ -103,13 +107,15 @@ namespace Clases
       this.listaDeLlamadas.Add(llamadaNueva);
     }
 
-    public string Mostrar() {
+    public string Mostrar()
+    {
 
       StringBuilder texto = new StringBuilder($"\nEmpresa: {this.razonSocial}, \nTotal ganado:" +
         $" {this.GananciasPorTodas}\nGanado por local: {this.GananciasPorLocal}, " +
         $"\nGanado por las provincial: {this.GananciasPorProvincial}\n\n");
 
-      foreach (Llamada c in this.listaDeLlamadas) {
+      foreach (Llamada c in this.listaDeLlamadas)
+      {
         texto.Append($"\n{c.ToString()}\n");
       }
       texto.Append("\n--------------------------------------------\n");
@@ -118,7 +124,8 @@ namespace Clases
 
 
 
-    public void OrdenarLlamadas() {
+    public void OrdenarLlamadas()
+    {
 
       this.listaDeLlamadas.Sort(Llamada.OrdenarLista);
 
@@ -128,9 +135,9 @@ namespace Clases
     {
       bool todoOk = false;
 
-      foreach(Llamada c in central.listaDeLlamadas)
+      foreach (Llamada c in central.listaDeLlamadas)
       {
-        if(c == l1)
+        if (c.Equals(l1))
         {
           todoOk = true;
         }
@@ -149,12 +156,13 @@ namespace Clases
     public static Centralita operator +(Centralita central, Llamada l1)
     {
 
-      if(central != l1)
+      if (central != l1)
       {
         central.AgregarLlamada(l1);
 
       }
-      else{
+      else
+      {
         throw new CentralitaException("Error llamada registrada", "Centralita", "AgregarLlamada");
       }
 
@@ -170,5 +178,5 @@ namespace Clases
   }
 
 
-  }
+}
 
