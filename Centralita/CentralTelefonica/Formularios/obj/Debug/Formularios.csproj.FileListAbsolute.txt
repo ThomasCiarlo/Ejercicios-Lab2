@@ -43,3 +43,18 @@ C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Formul
 C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\obj\Debug\Formularios.csproj.CopyComplete
 C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\obj\Debug\Formularios.exe
 C:\Users\Tomas Ciarl\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\obj\Debug\Formularios.pdb
+D:\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\bin\Debug\Formularios.exe.config
+D:\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\bin\Debug\Formularios.exe
+D:\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\bin\Debug\Formularios.pdb
+D:\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\bin\Debug\Clases.dll
+D:\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\bin\Debug\Clases.pdb
+D:\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+D:\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\obj\Debug\Formularios.frmMostrar.resources
+D:\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\obj\Debug\Formularios.frmMenu.resources
+D:\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\obj\Debug\Formularios.frmLlamador.resources
+D:\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+D:\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+D:\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+D:\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+D:\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\obj\Debug\Formularios.exe
+D:\Ejercicios-Lab2\Centralita\CentralTelefonica\Formularios\obj\Debug\Formularios.pdb

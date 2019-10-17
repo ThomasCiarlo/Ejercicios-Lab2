@@ -4,3 +4,8 @@ C:\Users\alumno\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Clases\bin\
 C:\Users\alumno\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Clases\bin\Debug\Clases.pdb
 C:\Users\alumno\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Clases\obj\Debug\Clases.dll
 C:\Users\alumno\Desktop\Ejercicios-Lab2\Centralita\CentralTelefonica\Clases\obj\Debug\Clases.pdb
+D:\Ejercicios-Lab2\Centralita\CentralTelefonica\Clases\bin\Debug\Clases.dll
+D:\Ejercicios-Lab2\Centralita\CentralTelefonica\Clases\bin\Debug\Clases.pdb
+D:\Ejercicios-Lab2\Centralita\CentralTelefonica\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+D:\Ejercicios-Lab2\Centralita\CentralTelefonica\Clases\obj\Debug\Clases.dll
+D:\Ejercicios-Lab2\Centralita\CentralTelefonica\Clases\obj\Debug\Clases.pdb
