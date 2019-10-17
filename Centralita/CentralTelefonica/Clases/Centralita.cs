@@ -154,6 +154,9 @@ namespace Clases
         central.AgregarLlamada(l1);
 
       }
+      else{
+        throw new CentralitaException("Error llamada registrada", "Centralita", "AgregarLlamada");
+      }
 
       return central;
 
